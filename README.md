@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am currently learning full stack web development.
+💻 I am currently learning Web penetration Testing & RED TEAMING.
 
 
 ## 🌐 Socials:
